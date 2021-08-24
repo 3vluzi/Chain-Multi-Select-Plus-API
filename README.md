@@ -7,6 +7,9 @@ Load select populated from remote in chained schema
 - - set dbname, password etc.
 - - set endpoint
 
+# DEMO
+https://izulthea.com/demo/chain-select/
+
 # CREDIT 
 - SQL Data Wilayah by ichadr (https://github.com/ichadhr/db-wilayah-indonesia)
 - Bootstrap (https://getbootstrap.com/)
